@@ -1,4 +1,4 @@
 # Periodoc table
 
 
-![periodoc table](./css/periodoc-table.png)
+![periodoc table](./images/periodoc-table.png)
